@@ -1,0 +1,54 @@
+.sectionTitle{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex: wrap;
+    background-color: #20c997;
+    height: 3rem;
+    width: auto;
+    padding-top: 0.5rem;
+}
+
+h2{
+    letter-spacing: 0.5rem;
+    font-weight: bold;
+}
+
+.sectionTable{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex: wrap;
+    padding-top: 5rem;
+}
+
+table{
+    width: 70rem;
+}
+
+th{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: bolder;
+    text-transform: uppercase;
+
+    border-bottom: 2px solid ;
+}
+
+tr{
+    border-bottom: 1px solid ;
+}
+
+td{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+button{
+    background-color: rgb(255, 145, 0);
+}
